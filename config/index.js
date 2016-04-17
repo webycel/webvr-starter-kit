@@ -63,7 +63,7 @@ module.exports = (function () {
 			forin: true,
 			freeze: true,
 			funcscope: true,
-			globalstrict: true,
+			// globalstrict: true,
 			immed: true,
 			iterator: true,
 			latedef: true,
